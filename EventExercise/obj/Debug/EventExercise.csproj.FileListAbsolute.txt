@@ -1,0 +1,14 @@
+E:\C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.exe.config
+E:\C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.exe
+E:\C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.pdb
+E:\C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.exe
+E:\C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.pdb
+E:\3计算机学习资料\2C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.exe.config
+E:\3计算机学习资料\2C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.exe
+E:\3计算机学习资料\2C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.exe.config
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\bin\Debug\EventExercise.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\EventExercise\obj\Debug\EventExercise.pdb

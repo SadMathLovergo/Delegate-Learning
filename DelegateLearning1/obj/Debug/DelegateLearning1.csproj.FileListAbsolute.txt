@@ -1,0 +1,12 @@
+E:\C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.exe.config
+E:\C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.exe
+E:\C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.pdb
+E:\C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.csprojResolveAssemblyReference.cache
+E:\C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.exe
+E:\C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.exe.config
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\bin\Debug\DelegateLearning1.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\DelegateLearning1\obj\Debug\DelegateLearning1.pdb

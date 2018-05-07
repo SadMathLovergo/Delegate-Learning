@@ -1,0 +1,6 @@
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\obj\Debug\ObserverMode3.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\bin\Debug\ObserverMode3.exe.config
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\bin\Debug\ObserverMode3.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\bin\Debug\ObserverMode3.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\obj\Debug\ObserverMode3.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\ObserverMode3\obj\Debug\ObserverMode3.pdb

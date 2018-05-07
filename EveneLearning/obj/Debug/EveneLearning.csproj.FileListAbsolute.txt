@@ -1,0 +1,12 @@
+E:\C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.exe.config
+E:\C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.exe
+E:\C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.pdb
+E:\C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.csprojResolveAssemblyReference.cache
+E:\C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.exe
+E:\C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.exe.config
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\bin\Debug\EveneLearning.pdb
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.exe
+E:\3_计算机学习资料\2_C#\DelegateLearning\EveneLearning\obj\Debug\EveneLearning.pdb
